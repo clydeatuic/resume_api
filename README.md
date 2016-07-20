@@ -32,3 +32,14 @@ $ ls
 ```
 $ subl readme.md
 ```
+* Set you account's default identity
+```
+$ git config user.email "you@example.com"
+$ git config user.name "Your Name"
+```
+* Stage your file, Commit changes and finally Push it your repo
+```
+$ git add .
+$ git commit -m "Any commit message"
+$ git push
+```
