@@ -12,10 +12,5 @@ MIT Sample Project: Resume RESTful API
 
 #sample setup scenario
 <ul>
-	<li>
-		###Check git version
-		--
-		git --version
-		--
-	</li>
+	<li>Check git version `$ git --version`</li>
 </ul>
