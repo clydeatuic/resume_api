@@ -9,3 +9,13 @@ MIT Sample Project: Resume RESTful API
 	<li>Clone Repository</li>
 	<li>Perform Git Commands (clone, add, commit, push, pull, etc.)</li>
 </ol>
+
+#sample setup scenario
+<ul>
+	<li>
+		###Check git version
+		'''
+		git --version
+		'''
+	</li>
+</ul>
