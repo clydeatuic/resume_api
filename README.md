@@ -11,11 +11,11 @@ MIT Sample Project: Resume RESTful API
 </ol>
 
 #sample setup scenario
-*Check git version
+* Check git version
 ```
 $ git --version
 ```
-*Check node version version
+* Check node version version
 ```
 $ node -v
 ```
