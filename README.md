@@ -14,8 +14,8 @@ MIT Sample Project: Resume RESTful API
 <ul>
 	<li>
 		###Check git version
-		'''
+		--
 		git --version
-		'''
+		--
 	</li>
 </ul>
