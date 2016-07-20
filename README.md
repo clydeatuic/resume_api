@@ -11,8 +11,10 @@ MIT Sample Project: Resume RESTful API
 </ol>
 
 #sample setup scenario
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<ul>
+	<li>Check git version
+		```
+		$ git --version
+		```
+	</li>
+</ul>
