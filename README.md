@@ -19,3 +19,16 @@ $ git --version
 ```
 $ node -v
 ```
+* Clone repository
+```
+$ git clone https://github.com/[:username]/[:repositoryname].git
+```
+* Change the directory, get inside the repository and show the list of all files
+```
+$ cd [:reponame]
+$ ls
+```
+* Update file content using text editor (e.g. sublime text)
+```
+$ subl readme.md
+```
